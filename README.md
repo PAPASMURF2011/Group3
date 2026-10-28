@@ -17,4 +17,4 @@ flowchart:<img width="627" height="244" alt="Kangaroogameflowchart" src="https:/
 
 # UI Mockups 
 ![ui1](https://github.com/PAPASMURF2011/Group3/blob/main/images/ui1.png?raw=true)
-![]()
+![ui2](https://github.com/PAPASMURF2011/Group3/blob/main/images/ui2.png?raw=true)
