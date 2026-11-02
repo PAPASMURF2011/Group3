@@ -23,5 +23,5 @@ One question out group needs to research is: How can we make our app more fun or
 # Project Schedule
 ![ProjectSchedule](https://github.com/PAPASMURF2011/Group3/blob/main/images/Schedule.png?raw=true)
 
-#Flow Chart
-![FlowChart](https://github.com/PAPASMURF2011/Group3/blob/main/images/Schedule.png?raw=true)
+# Flow Chart
+![FlowChart](https://github.com/PAPASMURF2011/Group3/blob/main/images/Untitled Diagram.drawio.html?raw=true)
