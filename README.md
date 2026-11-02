@@ -2,11 +2,16 @@
 # Group3
 
 # Group Members
+
 Adam McConkie
+
 William Davis
+
 Elle Birgenheier
+
 Isabella Cox
 
+# Overview
 Working app or game name: Kangaroo game
 
 This app would be used by anybody who is bored and wants to play a game
