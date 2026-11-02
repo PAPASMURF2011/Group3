@@ -28,9 +28,11 @@ One question out group needs to research is: How can we make our app more fun or
 <img width="627" height="244" alt="Kangaroogameflowchart" src="https://github.com/user-attachments/assets/e3aab252-4805-457b-a1e2-f04fa7ac934d" />
 
 # UI Mockups 
-![ui1](https://github.com/PAPASMURF2011/Group3/blob/main/images/ui1.png?raw=true)
-![ui2](https://github.com/PAPASMURF2011/Group3/blob/main/images/ui2.png?raw=true)
+![ui4](https://github.com/PAPASMURF2011/Group3/blob/main/images/ui4.png?raw=true)
+![ui5](https://github.com/PAPASMURF2011/Group3/blob/main/images/ui5.png?raw=true)
 ![ui3](https://github.com/PAPASMURF2011/Group3/blob/main/images/ui3.png?raw=true)
+![ui6](https://github.com/PAPASMURF2011/Group3/blob/main/images/ui6.png?raw=true)
+![ui7](https://github.com/PAPASMURF2011/Group3/blob/main/images/ui7.png?raw=true)
 
 # Project Schedule
 ![ProjectSchedule](https://github.com/PAPASMURF2011/Group3/blob/main/images/Schedule.png?raw=true)
