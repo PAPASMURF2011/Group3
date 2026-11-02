@@ -30,6 +30,8 @@ One question out group needs to research is: How can we make our app more fun or
 # UI Mockups 
 ![ui1](https://github.com/PAPASMURF2011/Group3/blob/main/images/ui1.png?raw=true)
 ![ui2](https://github.com/PAPASMURF2011/Group3/blob/main/images/ui2.png?raw=true)
+![ui3](<img width="858" height="476" alt="ui3" src="https://github.com/user-attachments/assets/02c3ffe6-4d7c-45b5-b2e3-f71073c1c76e" />
+)
 
 # Project Schedule
 ![ProjectSchedule](https://github.com/PAPASMURF2011/Group3/blob/main/images/Schedule.png?raw=true)
