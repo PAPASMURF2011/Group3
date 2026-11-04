@@ -1,11 +1,13 @@
 // Elle Birgenheier 
 Player joey; 
 Item i1;
+Obstacle o1;
 
 void setup() {
   size(800,500);
   joey = new Player();  
-i1 = new Item();
+  i1 = new Item();
+  o1 = new Obstacle();
 }
 
 void draw() {
@@ -18,6 +20,7 @@ void draw() {
   ellipse(500,75,90,30);
   joey.display();
   i1.display();
+  o1.display();
 } 
 
 void keyPressed() {}
