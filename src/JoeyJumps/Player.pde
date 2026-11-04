@@ -18,7 +18,12 @@ class Player {
   }
 
   // member methods
-  void display() {}
+  void display() {
+    // TODO: add image and remove rect
+    // image(p1,x,y);
+    fill(c1);
+    rect(x,y,w,h);
+  }
   void consume() {}
   void jump() {}
 
