@@ -10,12 +10,17 @@ Item() {
   x = 50;
   y = 50;
   w = 50;
-  h = 50
+  h = 50;
   p1 = loadImage("");
 }
 
 // Member Methods
-void display() {}
+void display() {
+// TODO: Add Image and remove rect
+//image(p1,x,y)
+  rect(x,y,w,h);
+
+}
 
 
 }
