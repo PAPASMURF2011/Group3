@@ -2,7 +2,7 @@
 Player joey; 
 
 void setup() {
-  size(500,800);
+  size(800,500);
   joey = new Player();  
 }
 
