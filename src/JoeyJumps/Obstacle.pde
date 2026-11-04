@@ -3,7 +3,7 @@
 class Obstacle {
   // Member Variable
   int x,y,w,h;
-  PImage p3;
+  PImage p1;
   
   // Constructor
 Obstacle() {
@@ -11,13 +11,13 @@ Obstacle() {
   y = 50;
   w = 50;
   h = 50;
-  p3 = loadImage("cactus.png");
+  p1 = loadImage("cactus.png");
 
   }
 
   // Member Methods
 void display() {
- image(p3,x,y);
+ image(p1,x,y);
   
 
 }
