@@ -11,15 +11,14 @@ Obstacle() {
   y = 50;
   w = 50;
   h = 50;
-  p1 = loadImage("");
+  p1 = loadImage("cactus.png");
 
   }
 
   // Member Methods
 void display() {
-// TODO: add image and remove rect
-// image(p1,x,y);
-  rect(x,y,w,h);
+ image(p1,x,y);
+  
 
 }
 
