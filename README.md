@@ -25,7 +25,7 @@ The smallest working version would be a kangaroo jumping over obstacles
 One question out group needs to research is: How can we make our app more fun or more useful than other apps of this type.
 
 # Class Diagram
-<img width="627" height="244" alt="Kangaroogameflowchart" src="https://github.com/user-attachments/assets/e3aab252-4805-457b-a1e2-f04fa7ac934d" />
+<img width="637" height="298" alt="GameDiagram" src="https://github.com/user-attachments/assets/a6025102-37c6-4882-92f2-63002cc1a431" />
 
 # UI Mockups 
 ![ui4](https://github.com/PAPASMURF2011/Group3/blob/main/images/ui4.png?raw=true)
