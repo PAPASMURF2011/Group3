@@ -16,7 +16,12 @@ Obstacle() {
   }
 
   // Member Methods
-void display() {}
+void display() {
+// TODO: add image and remove rect
+// image(p1,x,y);
+  rect(x,y,w,h);
+
+}
 
 
 }
