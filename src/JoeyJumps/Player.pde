@@ -13,7 +13,7 @@ class Player {
     w = 50;
     h = 50;
     health = 3;
-    cl = color(244,55,77);
+    c1 = color(244,55,77);
     p1 = loadImage("");
   }
 
