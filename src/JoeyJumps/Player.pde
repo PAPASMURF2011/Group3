@@ -9,9 +9,9 @@ class Player {
   // constructor
   Player() {
     x = 50;
-    y = 50;
+    y = 275;
     w = 50;
-    h = 50;
+    h = 75;
     health = 3;
     c1 = color(244,55,77);
     p1 = loadImage("");
