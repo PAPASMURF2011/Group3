@@ -11,14 +11,14 @@ Item() {
   y = 50;
   w = 50;
   h = 50;
-  p1 = loadImage("");
+  p1 = loadImage("Food_Leaf.png");
 }
 
 // Member Methods
 void display() {
 // TODO: Add Image and remove rect
-//image(p1,x,y)
-  rect(x,y,w,h);
+  image(p1,x,y);
+ 
 
 }
 
