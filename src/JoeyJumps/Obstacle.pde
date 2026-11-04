@@ -7,8 +7,8 @@ class Obstacle {
   
   // Constructor
 Obstacle() {
-  x = 50;
-  y = 50;
+  x = 500;
+  y = 100;
   w = 50;
   h = 50;
   p1 = loadImage("cactus1.png");
