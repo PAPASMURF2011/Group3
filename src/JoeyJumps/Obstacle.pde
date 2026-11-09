@@ -18,9 +18,10 @@ Obstacle() {
   // Member Methods
 void display() {
  image(p1,x,y);
-  //rect(100,100,50,50);
 
 }
-
+void move() {
+x++;
+}
 
 }
