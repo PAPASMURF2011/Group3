@@ -19,6 +19,6 @@ class Item {
     image(p1, x, y, w, h);
   }
   void move() {
-    x=x-3;
+    x=x-5;
   }
 }
