@@ -15,11 +15,11 @@ class Player {
     h = 250;
     health = 3;
     gravity = .6;
-    groundLevel = 150;
+    groundLevel = 200;
     vy = 0;
     jumpStrength = -12;
     c1 = color(244, 55, 77);
-    p1 = loadImage("kangaroo.png");
+    p1 = loadImage("kangaroo3.png");
     isGrounded = false;
   }
 
