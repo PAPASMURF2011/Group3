@@ -21,8 +21,13 @@ void draw() {
   joey.display();
   i1.display();
   o1.display();
-  o1.move();
-  i1.move();
+
 } 
 
-void keyPressed() {}
+void keyPressed() {
+  //myPlayer.keyPressed();
+  if(key == ' ') {
+    joey.jump();
+  } 
+
+}
