@@ -14,7 +14,7 @@ class Player {
     w = 200;
     h = 250;
     health = 3;
-    gravity = .6;
+    gravity = .5;
     groundLevel = 200;
     vy = 0;
     jumpStrength = -15;
