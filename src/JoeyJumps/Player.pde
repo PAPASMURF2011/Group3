@@ -17,7 +17,7 @@ class Player {
     gravity = .6;
     groundLevel = 200;
     vy = 0;
-    jumpStrength = -12;
+    jumpStrength = -15;
     c1 = color(244, 55, 77);
     p1 = loadImage("kangaroo3.png");
     isGrounded = false;
