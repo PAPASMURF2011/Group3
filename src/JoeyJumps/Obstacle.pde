@@ -8,20 +8,20 @@ class Obstacle {
   // Constructor
 Obstacle() {
   x = 500;
-  y = 100;
-  w = 50;
-  h = 50;
+  y = 200;
+  w = 150;
+  h = 150;
   p1 = loadImage("cactus1.png");
 
   }
 
   // Member Methods
 void display() {
- image(p1,x,y);
+ image(p1,x,y,w,h);
 
 }
 void move() {
-x++;
+x--;
 }
 
 }
