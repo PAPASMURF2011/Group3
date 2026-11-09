@@ -31,5 +31,7 @@ void keyPressed() {
   if(key == ' ') {
     joey.jump();
   } 
+  void mousePressed() {
+    joey.jump();
+  }
 
-}
