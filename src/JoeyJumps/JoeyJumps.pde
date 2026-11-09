@@ -12,7 +12,7 @@ void setup() {
 
 void draw() {
   background(#7CBFF5);
-  fill (#2DAA2D);
+  fill (#DEDA65);
   rect(0,350,800,150);
   fill(255);
   ellipse(100,75,150,75);
@@ -35,4 +35,3 @@ void keyPressed() {
   void mousePressed() {
     joey.jump();
   }
-
