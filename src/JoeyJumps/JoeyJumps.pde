@@ -21,6 +21,7 @@ void draw() {
   joey.display();
   i1.display();
   o1.display();
+  o1.move();
 } 
 
 void keyPressed() {}
