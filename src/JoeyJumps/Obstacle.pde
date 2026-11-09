@@ -21,7 +21,7 @@ void display() {
 
 }
 void move() {
-x=x-3;
+x=x-5;
 }
 
 }
