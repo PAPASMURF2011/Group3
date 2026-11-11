@@ -3,13 +3,20 @@ Player joey;
 Item i1;
 Obstacle o1;
 
+PImage cloud1;
+PImage cloud2;
+
+
+
+
 void setup() {
-  size(800,500);
-  joey = new Player();  
+  cloud1 = loadImage("cloud1.png");
+  cloud2 = loadImage("cloud2.png");
+  size(800, 500);
+  joey = new Player();
   i1 = new Item();
   o1 = new Obstacle();
 }
-
 void draw() {
   background(#7CBFF5);
   fill (#DEDA65);
