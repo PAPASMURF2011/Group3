@@ -28,7 +28,7 @@ void draw() {
 
 void keyPressed() {
   //myPlayer.keyPressed();
-  if(key == ' ') {
+   if(key == ' ' || keyCode == 38 ) {
     joey.jump();
   } 
 }
