@@ -4,6 +4,8 @@ class Item {
   //Member Variables;
   int x, y, w, h;
   PImage p1;
+  boolean collidesWithPlayer;
+
 
   // Constructor
   Item() {
@@ -12,6 +14,7 @@ class Item {
     w = 75;
     h = 75;
     p1 = loadImage("Food_Leaf.png");
+    collidesWithPlayer = false;
   }
 
   // Member Methods
@@ -20,5 +23,8 @@ class Item {
   }
   void move() {
     x=x-6;
+  }
+  void collisionCheck() {
+   // if(){}
   }
 }
