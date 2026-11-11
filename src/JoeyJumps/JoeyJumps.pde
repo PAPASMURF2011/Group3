@@ -17,6 +17,7 @@ void setup() {
   i1 = new Item();
   o1 = new Obstacle();
 }
+
 void draw() {
   background(#7CBFF5);
   fill (#DEDA65);
