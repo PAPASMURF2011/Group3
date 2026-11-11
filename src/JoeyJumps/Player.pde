@@ -1,10 +1,11 @@
 // Isabella Cox
 
 class Player {
+  
   // member variables
   float x, y, w, h, health, gravity, groundLevel, vy, jumpStrength;
   color c1;
-  PImage p1;
+  PImage p1, p2;
   boolean isGrounded;
 
   // constructor
@@ -19,7 +20,7 @@ class Player {
     vy = 0;
     jumpStrength = -15;
     c1 = color(244, 55, 77);
-    p1 = loadImage("kangaroo3.png");
+    p1 = loadImage("kangaroo3.gif");
     isGrounded = false;
   }
 
@@ -36,6 +37,9 @@ class Player {
     } else {
       isGrounded = false;
     }
+
+ //switch between kangaroo3 and kangaroorun to make the kangaroo run
+   
 
     //line(0, groundLevel + 20, width, groundLevel + 20);
   }
