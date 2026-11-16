@@ -7,12 +7,12 @@ class Obstacle {
   boolean collidesWithPlayer;
   
   // Constructor
-Obstacle() {
-  x = 500;
-  y = 200;
+Obstacle(int x, PImage p1) {
+  this.x = x;
+  y = 230;
   w = 150;
   h = 150;
-  p1 = loadImage("cactus1.png");
+  this.p1 = p1;
   collidesWithPlayer = false;
 
   }
