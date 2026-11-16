@@ -37,7 +37,7 @@ image(grass1, -80,30, 1000, 950);
   o1.display();
   o1.move();
   i1.move();
-image(myAnimation, joey.x,joey.jump(), 400, 400);
+image(myAnimation, joey.x,joey.jump(), 250, 250);
 }
 
 void keyPressed() {
