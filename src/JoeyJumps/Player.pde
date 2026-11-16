@@ -11,7 +11,7 @@ class Player {
   // constructor
   Player() {
     x = 50;
-    y = 170;
+    y = 320;
     w = 200;
     h = 250;
     health = 3;
