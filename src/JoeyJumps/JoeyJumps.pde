@@ -31,9 +31,7 @@ grass2 = loadImage("grass2.png");
 }
 
 void draw() {
-  background(#7CBFF5);
-  fill (#DEDA65);
-  rect(0, 350, 800, 150);
+  background(#7CBFF5)
   image(cloud1, 50, -40, 350, 300);
   image(cloud2, 500, -40, 250, 300);
   image(cloud2, 300, -20, 250, 200);
