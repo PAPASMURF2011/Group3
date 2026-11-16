@@ -7,6 +7,7 @@ Obstacle o1;
 
 PImage cloud1;
 PImage cloud2;
+PImage grass1;
 
 
 
@@ -14,6 +15,7 @@ PImage cloud2;
 void setup() {
   cloud1 = loadImage("cloud1.png");
   cloud2 = loadImage("cloud2.png");
+grass1 = loadImage("grass1.png");
   size(800, 500);
   joey = new Player();
   i1 = new Item();
@@ -29,6 +31,7 @@ void draw() {
   image(cloud1, 50, -40, 350, 300);
   image(cloud2, 500, -40, 250, 300);
   image(cloud2, 300, -20, 250, 200);
+image(grass1, -80,30, 1000, 950);
   //joey.display();
   i1.display();
   o1.display();
