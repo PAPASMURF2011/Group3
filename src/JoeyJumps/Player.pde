@@ -26,7 +26,7 @@ class Player {
 
   // member methods
   void display() {
-    image(p1, x, y, w, h);
+    //image(p1, x, y, w, h);
 
     vy += gravity;
     y+= vy;
@@ -43,11 +43,12 @@ class Player {
 
     //line(0, groundLevel + 20, width, groundLevel + 20);
   }
-  void jump() {
+  float jump() {
 
     if (isGrounded) {
       vy = jumpStrength;
     }
+return y;
   }
 }
 //void keyPressed() {
