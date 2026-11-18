@@ -8,12 +8,12 @@ class Item {
 
 
   // Constructor
-  Item() {
-    x = 300;
+  Item(int x, PImage p1) {
+   this.x = x;
     y = 275;
     w = 75;
     h = 75;
-    p1 = loadImage("Food_Leaf.png");
+    this.p1 = p1;
     collidesWithPlayer = false;
   }
 
