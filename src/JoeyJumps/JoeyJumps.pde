@@ -55,15 +55,15 @@ void draw() {
 }
 
 void keyPressed() {
-  myPlayer.keyPressed();
+  //myPlayer.keyPressed();
   if (key == ' ' || keyCode == 38 ) {
     joey.jump();
   }
 }
-void mousePressed() {
-  joey.jump();
-}
-}
+//void mousePressed() {
+//  joey.jump();
+//}
+//}
 void mousePressed() {
   joey.jump();
 }
