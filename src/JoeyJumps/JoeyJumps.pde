@@ -27,7 +27,7 @@ void setup() {
   food_leaf[0] = new Item(400, loadImage("Food_Leaf.png"));
   food_leaf[1] = new Item(1000, loadImage("Food_Leaf.png"));
   cactus[0] = new Obstacle(800, loadImage("cactus1.png"));
-  cactus[1] = new Obstacle(1200, loadImage("cactus1.png"));
+  cactus[1] = new Obstacle(1200, loadImage("cactus2.png"));
 
   myAnimation = new Gif(this, "kangaroo3.gif");
   myAnimation.play();
